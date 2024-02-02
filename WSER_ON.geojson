@@ -1,0 +1,1195 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_ID": 15912,
+        "Owner_Name": "City of Hamilton",
+        "System_Name": "King Street Wastewater Treatment Plant",
+        "City": "Dundas",
+        "Province": "Ontario",
+        "Postal_Code": "L9H1C6",
+        "Owner_Type": "Municipal or another local authority",
+        "Daily_Effluent": 14584,
+        "Method_Calculation": "Continuous measure of effluent volume deposited via the final discharge point",
+        "Chlorine": "Yes",
+        "System_Type": "Continuous",
+        "Treatment_Types": "Screening, Primary Sedimentation/Clarification, Activated Sludge, Chemical Precipitation (Phosphorus), Filtration, Disinfection",
+        " Treatment_Description": "",
+        "Discharge_Place": "Effluent is deposited to water frequented by fish from a place where it was deposited via the final discharge point",
+        "Le temps de rétention hydraulique est-il de 5 jours ou plus? (Anglais)/ Is the hydraulic retention time 5 days or more? (English)": "Yes",
+        "Reporting_Frequency": "Quarterly",
+        "Périodes decalcul (Anglais)/ Averaging Period (English)": "Quarterly",
+        "Statut de Vérification du point (Anglais)/ Verification status of the point (English)": "Verified",
+        "Type de point (Anglais)/ Type of Point (English)": "Final Discharge Point",
+        "Water_Body": "Cootes Paradise",
+        " Description de l'utilisation de l'eau (Anglais)/ Description of use of water (English)": "Sport fishing",
+        "Description des eaux fréquentées par les poisons (Anglais) / Description of water frequented by fish (English)": "Natural wetland",
+        "System_status": "operational"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9426,
+          43.2676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_ID": 15883,
+        "Owner_Name": "City of Hamilton",
+        "System_Name": "Woodward Avenue Wastewater Treatment Plant",
+        "City": "Hamilton",
+        "Province": "Ontario",
+        "Postal_Code": "L8H6P4",
+        "Owner_Type": "Municipal or another local authority",
+        "Daily_Effluent": 278146,
+        "Method_Calculation": "Continuous measure of influent volume deposited via the final discharge point",
+        "Chlorine": "Yes",
+        "System_Type": "Continuous",
+        "Treatment_Types": "Grit Removal, Screening, Primary Sedimentation/Clarification, Activated Sludge, Chemical Precipitation (Phosphorus), Other Treatment, Disinfection",
+        " Treatment_Description": "Dechlorination",
+        "Discharge_Place": "Effluent is deposited to water frequented by fish from a place where it was deposited via the final discharge point",
+        "Le temps de rétention hydraulique est-il de 5 jours ou plus? (Anglais)/ Is the hydraulic retention time 5 days or more? (English)": "Yes",
+        "Reporting_Frequency": "Quarterly",
+        "Périodes decalcul (Anglais)/ Averaging Period (English)": "Monthly",
+        "Statut de Vérification du point (Anglais)/ Verification status of the point (English)": "Estimated",
+        "Type de point (Anglais)/ Type of Point (English)": "Final Discharge Point",
+        "Water_Body": "Hamilton Harbour",
+        " Description de l'utilisation de l'eau (Anglais)/ Description of use of water (English)": "Other recreational (e.g. boating)",
+        "Description des eaux fréquentées par les poisons (Anglais) / Description of water frequented by fish (English)": "Enclosed bay",
+        "System_status": "operational"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7714,
+          43.2518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_ID": 14028,
+        "Owner_Name": "Corporation of the City of Guelph",
+        "System_Name": "City of Guelph Wastewater Treatment Plant",
+        "City": "Guelph",
+        "Province": "Ontario",
+        "Postal_Code": "N1H3K5",
+        "Owner_Type": "Municipal or another local authority",
+        "Daily_Effluent": 45942,
+        "Method_Calculation": "Continuous measure of effluent volume deposited via the final discharge point",
+        "Chlorine": "Yes",
+        "System_Type": "Continuous",
+        "Treatment_Types": "Grit Removal, Screening, Primary Sedimentation/Clarification, Skimming, Activated Sludge, Extended Aeration Activated Sludge, Biological Ammonia Removal – Nitrification Only , Chemical Precipitation (Phosphorus), Filtration, Disinfection",
+        " Treatment_Description": "",
+        "Discharge_Place": "Effluent is deposited to water frequented by fish via the final discharge point",
+        "Le temps de rétention hydraulique est-il de 5 jours ou plus? (Anglais)/ Is the hydraulic retention time 5 days or more? (English)": "Yes",
+        "Reporting_Frequency": "Quarterly",
+        "Périodes decalcul (Anglais)/ Averaging Period (English)": "Monthly",
+        "Statut de Vérification du point (Anglais)/ Verification status of the point (English)": "Verified",
+        "Type de point (Anglais)/ Type of Point (English)": "Final Discharge Point",
+        "Water_Body": "Speed River",
+        " Description de l'utilisation de l'eau (Anglais)/ Description of use of water (English)": "Other",
+        "Description des eaux fréquentées par les poisons (Anglais) / Description of water frequented by fish (English)": "Watercourse with bulk flow ratio < 10",
+        "System_status": "operational"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.264,
+          43.522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_ID": 23717,
+        "Owner_Name": "County of Brant",
+        "System_Name": "Cainsville Wastewater Treatment Lagoon",
+        "City": "Cainsville",
+        "Province": "Ontario",
+        "Postal_Code": "N3T 5M1",
+        "Owner_Type": "Municipal or another local authority",
+        "Daily_Effluent": 1775,
+        "Method_Calculation": "Continuous measure of effluent volume deposited via the final discharge point",
+        "Chlorine": "No",
+        "System_Type": "Intermittent",
+        "Treatment_Types": "Chemical Flocculation, Lagoon - Facultative",
+        " Treatment_Description": "",
+        "Discharge_Place": "Effluent is deposited to water frequented by fish via the final discharge point",
+        "Le temps de rétention hydraulique est-il de 5 jours ou plus? (Anglais)/ Is the hydraulic retention time 5 days or more? (English)": "Non-applicable",
+        "Reporting_Frequency": "Annually",
+        "Périodes decalcul (Anglais)/ Averaging Period (English)": "Annually",
+        "Statut de Vérification du point (Anglais)/ Verification status of the point (English)": "Verified",
+        "Type de point (Anglais)/ Type of Point (English)": "Final Discharge Point",
+        "Water_Body": "",
+        " Description de l'utilisation de l'eau (Anglais)/ Description of use of water (English)": "Other",
+        "Description des eaux fréquentées par les poisons (Anglais) / Description of water frequented by fish (English)": "Other",
+        "System_status": "operational"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1786,
+          43.1476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_ID": 23308,
+        "Owner_Name": "Haldimand County",
+        "System_Name": "Caledonia WWTP",
+        "City": "Caledonia",
+        "Province": "Ontario",
+        "Postal_Code": "N3W 1E9",
+        "Owner_Type": "Municipal or another local authority",
+        "Daily_Effluent": 3300,
+        "Method_Calculation": "Continuous measure of effluent volume deposited via the final discharge point",
+        "Chlorine": "Yes",
+        "System_Type": "Continuous",
+        "Treatment_Types": "Screening, Primary Sedimentation/Clarification, Activated Sludge, Chemical Precipitation (Phosphorus), Filtration, Disinfection",
+        " Treatment_Description": "",
+        "Discharge_Place": "Effluent is deposited to water frequented by fish via the final discharge point",
+        "Le temps de rétention hydraulique est-il de 5 jours ou plus? (Anglais)/ Is the hydraulic retention time 5 days or more? (English)": "No",
+        "Reporting_Frequency": "Quarterly",
+        "Périodes decalcul (Anglais)/ Averaging Period (English)": "Quarterly",
+        "Statut de Vérification du point (Anglais)/ Verification status of the point (English)": "Estimated",
+        "Type de point (Anglais)/ Type of Point (English)": "Final Discharge Point",
+        "Water_Body": "",
+        " Description de l'utilisation de l'eau (Anglais)/ Description of use of water (English)": "",
+        "Description des eaux fréquentées par les poisons (Anglais) / Description of water frequented by fish (English)": "",
+        "System_status": "operational"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9457,
+          43.0681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_ID": 23310,
+        "Owner_Name": "Haldimand County",
+        "System_Name": "Dunnville WWTP",
+        "City": "Dunnville",
+        "Province": "Ontario",
+        "Postal_Code": "N1A 2W5",
+        "Owner_Type": "Municipal or another local authority",
+        "Daily_Effluent": 5200,
+        "Method_Calculation": "Continuous measure of effluent volume deposited via the final discharge point",
+        "Chlorine": "Yes",
+        "System_Type": "Continuous",
+        "Treatment_Types": "Extended Aeration Activated Sludge, Chemical Precipitation (Phosphorus), Disinfection",
+        " Treatment_Description": "",
+        "Discharge_Place": "Effluent is deposited to water frequented by fish via the final discharge point",
+        "Le temps de rétention hydraulique est-il de 5 jours ou plus? (Anglais)/ Is the hydraulic retention time 5 days or more? (English)": "No",
+        "Reporting_Frequency": "Quarterly",
+        "Périodes decalcul (Anglais)/ Averaging Period (English)": "Quarterly",
+        "Statut de Vérification du point (Anglais)/ Verification status of the point (English)": "Estimated",
+        "Type de point (Anglais)/ Type of Point (English)": "Final Discharge Point",
+        "Water_Body": "",
+        " Description de l'utilisation de l'eau (Anglais)/ Description of use of water (English)": "",
+        "Description des eaux fréquentées par les poisons (Anglais) / Description of water frequented by fish (English)": "",
+        "System_status": "operational"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.607,
+          42.9007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_ID": 23311,
+        "Owner_Name": "Haldimand County",
+        "System_Name": "Hagersville WWTP",
+        "City": "Hagersville",
+        "Province": "Ontario",
+        "Postal_Code": "N0A 1H0",
+        "Owner_Type": "Municipal or another local authority",
+        "Daily_Effluent": 2650,
+        "Method_Calculation": "Continuous measure of effluent volume deposited via the final discharge point",
+        "Chlorine": "No",
+        "System_Type": "Continuous",
+        "Treatment_Types": "Grit Removal, Screening, Extended Aeration Activated Sludge, Chemical Precipitation (Phosphorus), Filtration, Disinfection",
+        " Treatment_Description": "",
+        "Discharge_Place": "Effluent is deposited to water frequented by fish from a place where it was deposited via the final discharge point",
+        "Le temps de rétention hydraulique est-il de 5 jours ou plus? (Anglais)/ Is the hydraulic retention time 5 days or more? (English)": "No",
+        "Reporting_Frequency": "Quarterly",
+        "Périodes decalcul (Anglais)/ Averaging Period (English)": "Quarterly",
+        "Statut de Vérification du point (Anglais)/ Verification status of the point (English)": "Verified",
+        "Type de point (Anglais)/ Type of Point (English)": "Final Discharge Point",
+        "Water_Body": "Harrop Drain",
+        " Description de l'utilisation de l'eau (Anglais)/ Description of use of water (English)": "Agriculture (e.g irrigation)",
+        "Description des eaux fréquentées par les poisons (Anglais) / Description of water frequented by fish (English)": "Other",
+        "System_status": "operational"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0654,
+          42.9474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_ID": 23313,
+        "Owner_Name": "Haldimand County",
+        "System_Name": "Lake Erie Industrial Park Sewage Lagoons",
+        "City": "Nanticoke",
+        "Province": "Ontario",
+        "Postal_Code": "N0A 1L0",
+        "Owner_Type": "Municipal or another local authority",
+        "Daily_Effluent": 843,
+        "Method_Calculation": "Continuous measure of effluent volume deposited via the final discharge point",
+        "Chlorine": "No",
+        "System_Type": "Intermittent",
+        "Treatment_Types": "Lagoon - Facultative",
+        " Treatment_Description": "",
+        "Discharge_Place": "Effluent is deposited to water frequented by fish via the final discharge point",
+        "Le temps de rétention hydraulique est-il de 5 jours ou plus? (Anglais)/ Is the hydraulic retention time 5 days or more? (English)": "Non-applicable",
+        "Reporting_Frequency": "Annually",
+        "Périodes decalcul (Anglais)/ Averaging Period (English)": "Annually",
+        "Statut de Vérification du point (Anglais)/ Verification status of the point (English)": "Estimated",
+        "Type de point (Anglais)/ Type of Point (English)": "Final Discharge Point",
+        "Water_Body": "",
+        " Description de l'utilisation de l'eau (Anglais)/ Description of use of water (English)": "",
+        "Description des eaux fréquentées par les poisons (Anglais) / Description of water frequented by fish (English)": "",
+        "System_status": "operational"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1105,
+          42.8246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_ID": 24066,
+        "Owner_Name": "Mississaugas of The New Credit First Nation",
+        "System_Name": "MNCFN Wastewater",
+        "City": "Hagersville",
+        "Province": "Ontario",
+        "Postal_Code": "N0A 1H0",
+        "Owner_Type": "",
+        "Daily_Effluent": 446.5,
+        "Method_Calculation": "Other method of calculation based on measurements",
+        "Chlorine": "No",
+        "System_Type": "Intermittent",
+        "Treatment_Types": "Lagoons - Aerated, Lagoon - Facultative, Filtration",
+        " Treatment_Description": "",
+        "Discharge_Place": "Effluent is deposited to water frequented by fish from a place where it was deposited via the final discharge point",
+        "Le temps de rétention hydraulique est-il de 5 jours ou plus? (Anglais)/ Is the hydraulic retention time 5 days or more? (English)": "Non-applicable",
+        "Reporting_Frequency": "Annually",
+        "Périodes decalcul (Anglais)/ Averaging Period (English)": "Annually",
+        "Statut de Vérification du point (Anglais)/ Verification status of the point (English)": "Verified",
+        "Type de point (Anglais)/ Type of Point (English)": "Final Discharge Point",
+        "Water_Body": "",
+        " Description de l'utilisation de l'eau (Anglais)/ Description of use of water (English)": "",
+        "Description des eaux fréquentées par les poisons (Anglais) / Description of water frequented by fish (English)": "",
+        "System_status": "operational"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0996,
+          43.0135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_ID": 24284,
+        "Owner_Name": "Norfolk County Public Works & Environmental Services",
+        "System_Name": "Port Dover WWTF",
+        "City": "Port Dover",
+        "Province": "Ontario",
+        "Postal_Code": "N0A 1N8",
+        "Owner_Type": "Municipal or another local authority",
+        "Daily_Effluent": 3755,
+        "Method_Calculation": "Continuous measure of effluent volume deposited via the final discharge point",
+        "Chlorine": "Yes",
+        "System_Type": "Continuous",
+        "Treatment_Types": "Grit Removal, Screening, Chemical Flocculation, Primary Sedimentation/Clarification, Skimming, Activated Sludge, Chemical Precipitation (Phosphorus), Disinfection",
+        " Treatment_Description": "",
+        "Discharge_Place": "Effluent is deposited to water frequented by fish via the final discharge point",
+        "Le temps de rétention hydraulique est-il de 5 jours ou plus? (Anglais)/ Is the hydraulic retention time 5 days or more? (English)": "No",
+        "Reporting_Frequency": "Quarterly",
+        "Périodes decalcul (Anglais)/ Averaging Period (English)": "Quarterly",
+        "Statut de Vérification du point (Anglais)/ Verification status of the point (English)": "Verified",
+        "Type de point (Anglais)/ Type of Point (English)": "Final Discharge Point",
+        "Water_Body": "Lake Erie",
+        " Description de l'utilisation de l'eau (Anglais)/ Description of use of water (English)": "Commercial fishing",
+        "Description des eaux fréquentées par les poisons (Anglais) / Description of water frequented by fish (English)": "Natural lake",
+        "System_status": "operational"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1856,
+          42.7879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_ID": 11920,
+        "Owner_Name": "Regional Municipality of Niagara",
+        "System_Name": "Baker Road Wastewater Treatment Plant",
+        "City": "Grimsby",
+        "Province": "Ontario",
+        "Postal_Code": "L3M4G1",
+        "Owner_Type": "Municipal or another local authority",
+        "Daily_Effluent": 18819,
+        "Method_Calculation": "Continuous measure of effluent volume deposited via the final discharge point",
+        "Chlorine": "Yes",
+        "System_Type": "Continuous",
+        "Treatment_Types": "Grit Removal, Screening, Chemical Flocculation, Primary Sedimentation/Clarification, Skimming, Activated Sludge, Biological Ammonia Removal – Nitrification Only , Chemical Precipitation (Phosphorus), Disinfection",
+        " Treatment_Description": "",
+        "Discharge_Place": "Effluent is deposited to water frequented by fish from a place where it was deposited via the final discharge point",
+        "Le temps de rétention hydraulique est-il de 5 jours ou plus? (Anglais)/ Is the hydraulic retention time 5 days or more? (English)": "No",
+        "Reporting_Frequency": "Quarterly",
+        "Périodes decalcul (Anglais)/ Averaging Period (English)": "Monthly",
+        "Statut de Vérification du point (Anglais)/ Verification status of the point (English)": "Estimated",
+        "Type de point (Anglais)/ Type of Point (English)": "Final Discharge Point",
+        "Water_Body": "",
+        " Description de l'utilisation de l'eau (Anglais)/ Description of use of water (English)": "",
+        "Description des eaux fréquentées par les poisons (Anglais) / Description of water frequented by fish (English)": "",
+        "System_status": "operational"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5365,
+          43.1834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_ID": 12234,
+        "Owner_Name": "Regional Municipality of Niagara",
+        "System_Name": "Fort Erie Wastewater Treatment Plant",
+        "City": "Fort Erie",
+        "Province": "Ontario",
+        "Postal_Code": "L2A5M4",
+        "Owner_Type": "Municipal or another local authority",
+        "Daily_Effluent": 11199,
+        "Method_Calculation": "Continuous measure of influent volume deposited via the final discharge point",
+        "Chlorine": "Yes",
+        "System_Type": "Continuous",
+        "Treatment_Types": "Grit Removal, Screening, Skimming, Extended Aeration Activated Sludge, Chemical Precipitation (Phosphorus), Disinfection",
+        " Treatment_Description": "",
+        "Discharge_Place": "Effluent is deposited to water frequented by fish from a place where it was deposited via the final discharge point",
+        "Le temps de rétention hydraulique est-il de 5 jours ou plus? (Anglais)/ Is the hydraulic retention time 5 days or more? (English)": "No",
+        "Reporting_Frequency": "Quarterly",
+        "Périodes decalcul (Anglais)/ Averaging Period (English)": "Quarterly",
+        "Statut de Vérification du point (Anglais)/ Verification status of the point (English)": "Verified",
+        "Type de point (Anglais)/ Type of Point (English)": "Final Discharge Point",
+        "Water_Body": "",
+        " Description de l'utilisation de l'eau (Anglais)/ Description of use of water (English)": "",
+        "Description des eaux fréquentées par les poisons (Anglais) / Description of water frequented by fish (English)": "",
+        "System_status": "operational"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9262,
+          42.9385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_ID": 11955,
+        "Owner_Name": "Regional Municipality of Niagara",
+        "System_Name": "Niagara Falls Wastewater Treatment Plant",
+        "City": "Niagara Falls",
+        "Province": "Ontario",
+        "Postal_Code": "L2E6V8",
+        "Owner_Type": "Municipal or another local authority",
+        "Daily_Effluent": 39578,
+        "Method_Calculation": "Continuous measure of effluent volume deposited via the final discharge point",
+        "Chlorine": "Yes",
+        "System_Type": "Continuous",
+        "Treatment_Types": "Grit Removal, Screening, Chemical Flocculation, Primary Sedimentation/Clarification, Skimming, Rotating Biological Contactor, Chemical Flocculation, Disinfection",
+        " Treatment_Description": "",
+        "Discharge_Place": "Effluent is deposited to water frequented by fish from a place where it was deposited via the final discharge point",
+        "Le temps de rétention hydraulique est-il de 5 jours ou plus? (Anglais)/ Is the hydraulic retention time 5 days or more? (English)": "No",
+        "Reporting_Frequency": "Quarterly",
+        "Périodes decalcul (Anglais)/ Averaging Period (English)": "Monthly",
+        "Statut de Vérification du point (Anglais)/ Verification status of the point (English)": "Verified",
+        "Type de point (Anglais)/ Type of Point (English)": "Final Discharge Point",
+        "Water_Body": "",
+        " Description de l'utilisation de l'eau (Anglais)/ Description of use of water (English)": "",
+        "Description des eaux fréquentées par les poisons (Anglais) / Description of water frequented by fish (English)": "",
+        "System_status": "operational"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0827,
+          43.1232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_ID": 23534,
+        "Owner_Name": "Regional Municipality of Niagara",
+        "System_Name": "Niagara-on-the-Lake Lagoon",
+        "City": "Niagara-on-the-Lake",
+        "Province": "Ontario",
+        "Postal_Code": "L0S1J0",
+        "Owner_Type": "Municipal or another local authority",
+        "Daily_Effluent": 4063,
+        "Method_Calculation": "Continuous measure of effluent volume deposited via the final discharge point",
+        "Chlorine": "Yes",
+        "System_Type": "Continuous",
+        "Treatment_Types": "Screening, Lagoons - Aerated, Lagoon - Facultative, Chemical Precipitation (Phosphorus), Disinfection",
+        " Treatment_Description": "",
+        "Discharge_Place": "Effluent is deposited to water frequented by fish from a place where it was deposited via the final discharge point",
+        "Le temps de rétention hydraulique est-il de 5 jours ou plus? (Anglais)/ Is the hydraulic retention time 5 days or more? (English)": "Yes",
+        "Reporting_Frequency": "Quarterly",
+        "Périodes decalcul (Anglais)/ Averaging Period (English)": "Quarterly",
+        "Statut de Vérification du point (Anglais)/ Verification status of the point (English)": "Verified",
+        "Type de point (Anglais)/ Type of Point (English)": "Final Discharge Point",
+        "Water_Body": "",
+        " Description de l'utilisation de l'eau (Anglais)/ Description of use of water (English)": "",
+        "Description des eaux fréquentées par les poisons (Anglais) / Description of water frequented by fish (English)": "",
+        "System_status": "operational"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.1029,
+          43.2535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_ID": 58462,
+        "Owner_Name": "Regional Municipality of Niagara",
+        "System_Name": "Niagara-on-the-Lake WWTP",
+        "City": "Niagara-on-the-Lake",
+        "Province": "Ontario",
+        "Postal_Code": "L0S 1J0",
+        "Owner_Type": "Municipal or another local authority",
+        "Daily_Effluent": 6032.2,
+        "Method_Calculation": "Continuous measure of effluent volume deposited via the final discharge point",
+        "Chlorine": "Yes",
+        "System_Type": "Continuous",
+        "Treatment_Types": "Grit Removal, Screening, Extended Aeration Activated Sludge, Biological Ammonia Removal - Nitrification Only, Chemical Precipitation (Phosphorus), Disinfection",
+        " Treatment_Description": "",
+        "Discharge_Place": "Effluent is deposited to water frequented by fish via the final discharge point",
+        "Le temps de rétention hydraulique est-il de 5 jours ou plus? (Anglais)/ Is the hydraulic retention time 5 days or more? (English)": "No",
+        "Reporting_Frequency": "Quarterly",
+        "Périodes decalcul (Anglais)/ Averaging Period (English)": "Quarterly",
+        "Statut de Vérification du point (Anglais)/ Verification status of the point (English)": "Verified",
+        "Type de point (Anglais)/ Type of Point (English)": "Final Discharge Point",
+        "Water_Body": "Lake Ontario",
+        " Description de l'utilisation de l'eau (Anglais)/ Description of use of water (English)": "Other recreational (e.g. boating)",
+        "Description des eaux fréquentées par les poisons (Anglais) / Description of water frequented by fish (English)": "Natural lake",
+        "System_status": "operational"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.1118,
+          43.2545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_ID": 12313,
+        "Owner_Name": "Regional Municipality of Niagara",
+        "System_Name": "Port Colborne Wastewater Treatment Plant",
+        "City": "Port Colborne",
+        "Province": "Ontario",
+        "Postal_Code": "L3K5X9",
+        "Owner_Type": "Municipal or another local authority",
+        "Daily_Effluent": 10598,
+        "Method_Calculation": "Continuous measure of effluent volume deposited via the final discharge point",
+        "Chlorine": "Yes",
+        "System_Type": "Continuous",
+        "Treatment_Types": "Grit Removal, Screening, Chemical Flocculation, Primary Sedimentation/Clarification, Skimming, Activated Sludge, Chemical Precipitation (Phosphorus), Disinfection",
+        " Treatment_Description": "",
+        "Discharge_Place": "Effluent is deposited to water frequented by fish from a place where it was deposited via the final discharge point",
+        "Le temps de rétention hydraulique est-il de 5 jours ou plus? (Anglais)/ Is the hydraulic retention time 5 days or more? (English)": "No",
+        "Reporting_Frequency": "Quarterly",
+        "Périodes decalcul (Anglais)/ Averaging Period (English)": "Quarterly",
+        "Statut de Vérification du point (Anglais)/ Verification status of the point (English)": "Verified",
+        "Type de point (Anglais)/ Type of Point (English)": "Final Discharge Point",
+        "Water_Body": "",
+        " Description de l'utilisation de l'eau (Anglais)/ Description of use of water (English)": "",
+        "Description des eaux fréquentées par les poisons (Anglais) / Description of water frequented by fish (English)": "",
+        "System_status": "operational"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.252,
+          42.9054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_ID": 11524,
+        "Owner_Name": "Regional Municipality of Niagara",
+        "System_Name": "Port Dalhousie Wastewater Treatment Plant",
+        "City": "St. Catharines",
+        "Province": "Ontario",
+        "Postal_Code": "L2N7P5",
+        "Owner_Type": "Municipal or another local authority",
+        "Daily_Effluent": 31989,
+        "Method_Calculation": "Continuous measure of effluent volume deposited via the final discharge point",
+        "Chlorine": "Yes",
+        "System_Type": "Continuous",
+        "Treatment_Types": "Grit Removal, Screening, Chemical Flocculation, Primary Sedimentation/Clarification, Skimming, Activated Sludge, Chemical Precipitation (Phosphorus), Disinfection",
+        " Treatment_Description": "",
+        "Discharge_Place": "Effluent is deposited to water frequented by fish from a place where it was deposited via the final discharge point",
+        "Le temps de rétention hydraulique est-il de 5 jours ou plus? (Anglais)/ Is the hydraulic retention time 5 days or more? (English)": "No",
+        "Reporting_Frequency": "Quarterly",
+        "Périodes decalcul (Anglais)/ Averaging Period (English)": "Monthly",
+        "Statut de Vérification du point (Anglais)/ Verification status of the point (English)": "Verified",
+        "Type de point (Anglais)/ Type of Point (English)": "Final Discharge Point",
+        "Water_Body": "",
+        " Description de l'utilisation de l'eau (Anglais)/ Description of use of water (English)": "",
+        "Description des eaux fréquentées par les poisons (Anglais) / Description of water frequented by fish (English)": "",
+        "System_status": "operational"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2607,
+          43.2024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_ID": 11738,
+        "Owner_Name": "Regional Municipality of Niagara",
+        "System_Name": "Port Weller Wastewater Treatment Plant",
+        "City": "St. Catharines",
+        "Province": "Ontario",
+        "Postal_Code": "L2M1A1",
+        "Owner_Type": "Municipal or another local authority",
+        "Daily_Effluent": 37198,
+        "Method_Calculation": "Continuous measure of effluent volume deposited via the final discharge point",
+        "Chlorine": "Yes",
+        "System_Type": "Continuous",
+        "Treatment_Types": "Grit Removal, Screening, Primary Sedimentation/Clarification, Skimming, Activated Sludge, Chemical Precipitation (Phosphorus), Disinfection",
+        " Treatment_Description": "",
+        "Discharge_Place": "Effluent is deposited to water frequented by fish from a place where it was deposited via the final discharge point",
+        "Le temps de rétention hydraulique est-il de 5 jours ou plus? (Anglais)/ Is the hydraulic retention time 5 days or more? (English)": "No",
+        "Reporting_Frequency": "Quarterly",
+        "Périodes decalcul (Anglais)/ Averaging Period (English)": "Monthly",
+        "Statut de Vérification du point (Anglais)/ Verification status of the point (English)": "Verified",
+        "Type de point (Anglais)/ Type of Point (English)": "Final Discharge Point",
+        "Water_Body": "",
+        " Description de l'utilisation de l'eau (Anglais)/ Description of use of water (English)": "",
+        "Description des eaux fréquentées par les poisons (Anglais) / Description of water frequented by fish (English)": "",
+        "System_status": "operational"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2186,
+          43.2265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_ID": 23520,
+        "Owner_Name": "Regional Municipality of Niagara",
+        "System_Name": "Queenston Wastewater Treatment",
+        "City": "Niagara-on-the-Lake",
+        "Province": "Ontario",
+        "Postal_Code": "L0S1L0",
+        "Owner_Type": "Municipal or another local authority",
+        "Daily_Effluent": 253,
+        "Method_Calculation": "Continuous measure of effluent volume deposited via the final discharge point",
+        "Chlorine": "Yes",
+        "System_Type": "Continuous",
+        "Treatment_Types": "Grit Removal, Screening, Activated Sludge, Biological Ammonia Removal – Nitrification Only , Disinfection",
+        " Treatment_Description": "",
+        "Discharge_Place": "Effluent is deposited to water frequented by fish from a place where it was deposited via the final discharge point",
+        "Le temps de rétention hydraulique est-il de 5 jours ou plus? (Anglais)/ Is the hydraulic retention time 5 days or more? (English)": "No",
+        "Reporting_Frequency": "Quarterly",
+        "Périodes decalcul (Anglais)/ Averaging Period (English)": "Quarterly",
+        "Statut de Vérification du point (Anglais)/ Verification status of the point (English)": "Verified",
+        "Type de point (Anglais)/ Type of Point (English)": "Final Discharge Point",
+        "Water_Body": "",
+        " Description de l'utilisation de l'eau (Anglais)/ Description of use of water (English)": "",
+        "Description des eaux fréquentées par les poisons (Anglais) / Description of water frequented by fish (English)": "",
+        "System_status": "operational"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0496,
+          43.163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_ID": 23519,
+        "Owner_Name": "Regional Municipality of Niagara",
+        "System_Name": "Stevensville/Douglastown Lagoon",
+        "City": "Stevensville",
+        "Province": "Ontario",
+        "Postal_Code": "L0S1L0",
+        "Owner_Type": "Municipal or another local authority",
+        "Daily_Effluent": 1095,
+        "Method_Calculation": "Continuous measure of effluent volume deposited via the final discharge point",
+        "Chlorine": "No",
+        "System_Type": "Continuous",
+        "Treatment_Types": "Lagoons - Aerated, Lagoon - Facultative, Chemical Precipitation (Phosphorus)",
+        " Treatment_Description": "",
+        "Discharge_Place": "Effluent is deposited to water frequented by fish from a place where it was deposited via the final discharge point",
+        "Le temps de rétention hydraulique est-il de 5 jours ou plus? (Anglais)/ Is the hydraulic retention time 5 days or more? (English)": "Yes",
+        "Reporting_Frequency": "Annually",
+        "Périodes decalcul (Anglais)/ Averaging Period (English)": "Annually",
+        "Statut de Vérification du point (Anglais)/ Verification status of the point (English)": "Verified",
+        "Type de point (Anglais)/ Type of Point (English)": "Final Discharge Point",
+        "Water_Body": "",
+        " Description de l'utilisation de l'eau (Anglais)/ Description of use of water (English)": "",
+        "Description des eaux fréquentées par les poisons (Anglais) / Description of water frequented by fish (English)": "",
+        "System_status": "operational"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0372,
+          42.9702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_ID": 12420,
+        "Owner_Name": "Regional Municipality of Niagara",
+        "System_Name": "Welland Wastewater Treatment Plant",
+        "City": "Welland",
+        "Province": "Ontario",
+        "Postal_Code": "L3B5N4",
+        "Owner_Type": "Municipal or another local authority",
+        "Daily_Effluent": 35487,
+        "Method_Calculation": "Continuous measure of effluent volume deposited via the final discharge point",
+        "Chlorine": "Yes",
+        "System_Type": "Continuous",
+        "Treatment_Types": "Grit Removal, Screening, Chemical Flocculation, Primary Sedimentation/Clarification, Skimming, Activated Sludge, Chemical Precipitation (Phosphorus), Filtration, Disinfection",
+        " Treatment_Description": "",
+        "Discharge_Place": "Effluent is deposited to water frequented by fish from a place where it was deposited via the final discharge point",
+        "Le temps de rétention hydraulique est-il de 5 jours ou plus? (Anglais)/ Is the hydraulic retention time 5 days or more? (English)": "No",
+        "Reporting_Frequency": "Quarterly",
+        "Périodes decalcul (Anglais)/ Averaging Period (English)": "Monthly",
+        "Statut de Vérification du point (Anglais)/ Verification status of the point (English)": "Verified",
+        "Type de point (Anglais)/ Type of Point (English)": "Final Discharge Point",
+        "Water_Body": "",
+        " Description de l'utilisation de l'eau (Anglais)/ Description of use of water (English)": "",
+        "Description des eaux fréquentées par les poisons (Anglais) / Description of water frequented by fish (English)": "",
+        "System_status": "operational"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2384,
+          43.0075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_ID": 23691,
+        "Owner_Name": "Regional Municipality of Waterloo",
+        "System_Name": "Ayr Wastewater Treatment Plant",
+        "City": "Ayr",
+        "Province": "Ontario",
+        "Postal_Code": "N0B 1E0",
+        "Owner_Type": "Municipal or another local authority",
+        "Daily_Effluent": 1237,
+        "Method_Calculation": "Continuous measure of effluent volume deposited via the final discharge point",
+        "Chlorine": "No",
+        "System_Type": "Continuous",
+        "Treatment_Types": "Grit Removal, Screening, Extended Aeration Activated Sludge, Chemical Precipitation (Phosphorus), Disinfection",
+        " Treatment_Description": "",
+        "Discharge_Place": "Effluent is deposited to water frequented by fish via the final discharge point",
+        "Le temps de rétention hydraulique est-il de 5 jours ou plus? (Anglais)/ Is the hydraulic retention time 5 days or more? (English)": "No",
+        "Reporting_Frequency": "Quarterly",
+        "Périodes decalcul (Anglais)/ Averaging Period (English)": "Quarterly",
+        "Statut de Vérification du point (Anglais)/ Verification status of the point (English)": "Verified",
+        "Type de point (Anglais)/ Type of Point (English)": "Final Discharge Point",
+        "Water_Body": "Nith River; Grand River Watershed",
+        " Description de l'utilisation de l'eau (Anglais)/ Description of use of water (English)": "Other",
+        "Description des eaux fréquentées par les poisons (Anglais) / Description of water frequented by fish (English)": "Other",
+        "System_status": "operational"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4651,
+          43.2813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_ID": 23692,
+        "Owner_Name": "Regional Municipality of Waterloo",
+        "System_Name": "Elmira Wastewater Treatment Plant",
+        "City": "Elmira",
+        "Province": "Ontario",
+        "Postal_Code": "N3B 2E7",
+        "Owner_Type": "Municipal or another local authority",
+        "Daily_Effluent": 3896.1,
+        "Method_Calculation": "Continuous measure of effluent volume deposited via the final discharge point",
+        "Chlorine": "No",
+        "System_Type": "Continuous",
+        "Treatment_Types": "Grit Removal, Screening, Primary Sedimentation/Clarification, Skimming, Activated Sludge, Biological Nitrogen Removal - Nitrification and Denitrification, Biological Nutrient Removal (Nitrogen and Phosphorus), Chemical Precipitation (Phosphorus), Filtration, Disinfection",
+        " Treatment_Description": "",
+        "Discharge_Place": "Effluent is deposited to water frequented by fish from a place where it was deposited via the final discharge point",
+        "Le temps de rétention hydraulique est-il de 5 jours ou plus? (Anglais)/ Is the hydraulic retention time 5 days or more? (English)": "No",
+        "Reporting_Frequency": "Quarterly",
+        "Périodes decalcul (Anglais)/ Averaging Period (English)": "Quarterly",
+        "Statut de Vérification du point (Anglais)/ Verification status of the point (English)": "Verified",
+        "Type de point (Anglais)/ Type of Point (English)": "Final Discharge Point",
+        "Water_Body": "Canagagigue Creek; Grand River Watershed",
+        " Description de l'utilisation de l'eau (Anglais)/ Description of use of water (English)": "Other",
+        "Description des eaux fréquentées par les poisons (Anglais) / Description of water frequented by fish (English)": "Other",
+        "System_status": "operational"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5501,
+          43.5913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_ID": 10566,
+        "Owner_Name": "Regional Municipality of Waterloo",
+        "System_Name": "Galt Wastewater Treatment Plant",
+        "City": "Cambridge",
+        "Province": "Ontario",
+        "Postal_Code": "N1R5S6",
+        "Owner_Type": "Municipal or another local authority",
+        "Daily_Effluent": 24703.9,
+        "Method_Calculation": "Continuous measure of effluent volume deposited via the final discharge point",
+        "Chlorine": "No",
+        "System_Type": "Continuous",
+        "Treatment_Types": "Grit Removal, Screening, Primary Sedimentation/Clarification, Skimming, Activated Sludge, Biological Ammonia Removal – Nitrification Only , Chemical Precipitation (Phosphorus), Filtration, Disinfection",
+        " Treatment_Description": "",
+        "Discharge_Place": "Effluent is deposited to water frequented by fish from a place where it was deposited via the final discharge point",
+        "Le temps de rétention hydraulique est-il de 5 jours ou plus? (Anglais)/ Is the hydraulic retention time 5 days or more? (English)": "No",
+        "Reporting_Frequency": "Quarterly",
+        "Périodes decalcul (Anglais)/ Averaging Period (English)": "Monthly",
+        "Statut de Vérification du point (Anglais)/ Verification status of the point (English)": "Verified",
+        "Type de point (Anglais)/ Type of Point (English)": "Final Discharge Point",
+        "Water_Body": "Grand River",
+        " Description de l'utilisation de l'eau (Anglais)/ Description of use of water (English)": "Other",
+        "Description des eaux fréquentées par les poisons (Anglais) / Description of water frequented by fish (English)": "Other",
+        "System_status": "operational"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3161,
+          43.3386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_ID": 23693,
+        "Owner_Name": "Regional Municipality of Waterloo",
+        "System_Name": "Hespeler Wastewater Treatment Plant",
+        "City": "Cambridge",
+        "Province": "Ontario",
+        "Postal_Code": "N3C 4B1",
+        "Owner_Type": "Municipal or another local authority",
+        "Daily_Effluent": 6858.9,
+        "Method_Calculation": "Continuous measure of effluent volume deposited via the final discharge point",
+        "Chlorine": "Yes",
+        "System_Type": "Continuous",
+        "Treatment_Types": "Grit Removal, Screening, Extended Aeration Activated Sludge, Chemical Precipitation (Phosphorus), Disinfection",
+        " Treatment_Description": "",
+        "Discharge_Place": "Effluent is deposited to water frequented by fish from a place where it was deposited via the final discharge point",
+        "Le temps de rétention hydraulique est-il de 5 jours ou plus? (Anglais)/ Is the hydraulic retention time 5 days or more? (English)": "No",
+        "Reporting_Frequency": "Quarterly",
+        "Périodes decalcul (Anglais)/ Averaging Period (English)": "Quarterly",
+        "Statut de Vérification du point (Anglais)/ Verification status of the point (English)": "Verified",
+        "Type de point (Anglais)/ Type of Point (English)": "Final Discharge Point",
+        "Water_Body": "Speed River; Grand River Watershed",
+        " Description de l'utilisation de l'eau (Anglais)/ Description of use of water (English)": "Other",
+        "Description des eaux fréquentées par les poisons (Anglais) / Description of water frequented by fish (English)": "Other",
+        "System_status": "operational"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3292,
+          43.4238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_ID": 18945,
+        "Owner_Name": "Regional Municipality of Waterloo",
+        "System_Name": "New Hamburg Wastewater Treatment Lagoons",
+        "City": "New Hamburg",
+        "Province": "Ontario",
+        "Postal_Code": "N3A 3G2",
+        "Owner_Type": "Municipal or another local authority",
+        "Daily_Effluent": 3358,
+        "Method_Calculation": "Continuous measure of effluent volume deposited via the final discharge point",
+        "Chlorine": "No",
+        "System_Type": "Continuous",
+        "Treatment_Types": "Grit Removal, Screening, Sequencing Batch Reactor, Biological Ammonia Removal – Nitrification Only , Chemical Precipitation (Phosphorus), Filtration, Disinfection",
+        " Treatment_Description": "",
+        "Discharge_Place": "Effluent is deposited to water frequented by fish from a place where it was deposited via the final discharge point",
+        "Le temps de rétention hydraulique est-il de 5 jours ou plus? (Anglais)/ Is the hydraulic retention time 5 days or more? (English)": "No",
+        "Reporting_Frequency": "Quarterly",
+        "Périodes decalcul (Anglais)/ Averaging Period (English)": "Quarterly",
+        "Statut de Vérification du point (Anglais)/ Verification status of the point (English)": "Verified",
+        "Type de point (Anglais)/ Type of Point (English)": "Final Discharge Point",
+        "Water_Body": "Nith River; Grand River Watershed",
+        " Description de l'utilisation de l'eau (Anglais)/ Description of use of water (English)": "Other",
+        "Description des eaux fréquentées par les poisons (Anglais) / Description of water frequented by fish (English)": "Other",
+        "System_status": "operational"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6865,
+          43.3651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_ID": 10567,
+        "Owner_Name": "Regional Municipality of Waterloo",
+        "System_Name": "Preston Wastewater Treatment Plant",
+        "City": "Cambridge",
+        "Province": "Ontario",
+        "Postal_Code": "N3H2J4",
+        "Owner_Type": "Municipal or another local authority",
+        "Daily_Effluent": 8696.9,
+        "Method_Calculation": "Continuous measure of influent volume deposited via the final discharge point",
+        "Chlorine": "No",
+        "System_Type": "Continuous",
+        "Treatment_Types": "Grit Removal, Screening, Primary Sedimentation/Clarification, Skimming, Activated Sludge, Biological Ammonia Removal – Nitrification Only , Chemical Precipitation (Phosphorus), Disinfection",
+        " Treatment_Description": "",
+        "Discharge_Place": "Effluent is deposited to water frequented by fish from a place where it was deposited via the final discharge point",
+        "Le temps de rétention hydraulique est-il de 5 jours ou plus? (Anglais)/ Is the hydraulic retention time 5 days or more? (English)": "No",
+        "Reporting_Frequency": "Quarterly",
+        "Périodes decalcul (Anglais)/ Averaging Period (English)": "Quarterly",
+        "Statut de Vérification du point (Anglais)/ Verification status of the point (English)": "Verified",
+        "Type de point (Anglais)/ Type of Point (English)": "Final Discharge Point",
+        "Water_Body": "Grand River",
+        " Description de l'utilisation de l'eau (Anglais)/ Description of use of water (English)": "Other recreational (e.g. boating)",
+        "Description des eaux fréquentées par les poisons (Anglais) / Description of water frequented by fish (English)": "Watercourse with bulk flow ratio >=10 and <=100",
+        "System_status": "operational"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3513,
+          43.3875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_ID": 10565,
+        "Owner_Name": "Regional Municipality of Waterloo",
+        "System_Name": "Waterloo Wastewater Treatment Plant",
+        "City": "Waterloo",
+        "Province": "Ontario",
+        "Postal_Code": "N2K 3M7",
+        "Owner_Type": "Municipal or another local authority",
+        "Daily_Effluent": 43414.9,
+        "Method_Calculation": "Continuous measure of influent volume deposited via the final discharge point",
+        "Chlorine": "No",
+        "System_Type": "Continuous",
+        "Treatment_Types": "Grit Removal, Screening, Chemical Flocculation, Primary Sedimentation/Clarification, Skimming, Activated Sludge, Chemical Precipitation (Phosphorus), Disinfection",
+        " Treatment_Description": "",
+        "Discharge_Place": "Effluent is deposited to water frequented by fish from a place where it was deposited via the final discharge point",
+        "Le temps de rétention hydraulique est-il de 5 jours ou plus? (Anglais)/ Is the hydraulic retention time 5 days or more? (English)": "No",
+        "Reporting_Frequency": "Quarterly",
+        "Périodes decalcul (Anglais)/ Averaging Period (English)": "Monthly",
+        "Statut de Vérification du point (Anglais)/ Verification status of the point (English)": "Verified",
+        "Type de point (Anglais)/ Type of Point (English)": "Final Discharge Point",
+        "Water_Body": "Grand River; Grand River Watershed",
+        " Description de l'utilisation de l'eau (Anglais)/ Description of use of water (English)": "Other",
+        "Description des eaux fréquentées par les poisons (Anglais) / Description of water frequented by fish (English)": "Other",
+        "System_status": "operational"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5061,
+          43.4867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_ID": 24128,
+        "Owner_Name": "Six Nations of the Grand River",
+        "System_Name": "Six Nations of the Grand River Communal Sewage Treatment System",
+        "City": "Ohsweken",
+        "Province": "Ontario",
+        "Postal_Code": "N0A 1M0",
+        "Owner_Type": "",
+        "Daily_Effluent": 800,
+        "Method_Calculation": "Estimate based on the measured rate of influent flow",
+        "Chlorine": "No",
+        "System_Type": "Intermittent",
+        "Treatment_Types": "Screening, Primary Sedimentation/Clarification, Lagoon - Facultative, Storage Ponds, Biological Phosphorus Removal",
+        " Treatment_Description": "",
+        "Discharge_Place": "Effluent is deposited to water frequented by fish via the final discharge point",
+        "Le temps de rétention hydraulique est-il de 5 jours ou plus? (Anglais)/ Is the hydraulic retention time 5 days or more? (English)": "Non-applicable",
+        "Reporting_Frequency": "Annually",
+        "Périodes decalcul (Anglais)/ Averaging Period (English)": "Annually",
+        "Statut de Vérification du point (Anglais)/ Verification status of the point (English)": "Estimated",
+        "Type de point (Anglais)/ Type of Point (English)": "Final Discharge Point",
+        "Water_Body": "McKenzie Creek",
+        " Description de l'utilisation de l'eau (Anglais)/ Description of use of water (English)": "Agriculture (e.g irrigation)",
+        "Description des eaux fréquentées par les poisons (Anglais) / Description of water frequented by fish (English)": "Natural wetland",
+        "System_status": "operational"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1095,
+          43.0692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_ID": 375,
+        "Owner_Name": "Stelco Inc.",
+        "System_Name": "Lake Erie",
+        "City": "Haldimand County",
+        "Province": "Ontario",
+        "Postal_Code": "N0A1L0",
+        "Owner_Type": "Other",
+        "Daily_Effluent": 450,
+        "Method_Calculation": "Estimate based on generally accepted engineering practices",
+        "Chlorine": "No",
+        "System_Type": "Intermittent",
+        "Treatment_Types": "Chemical Flocculation",
+        " Treatment_Description": "",
+        "Discharge_Place": "Effluent is deposited to water frequented by fish via the final discharge point",
+        "Le temps de rétention hydraulique est-il de 5 jours ou plus? (Anglais)/ Is the hydraulic retention time 5 days or more? (English)": "Non-applicable",
+        "Reporting_Frequency": "Annually",
+        "Périodes decalcul (Anglais)/ Averaging Period (English)": "Annually",
+        "Statut de Vérification du point (Anglais)/ Verification status of the point (English)": "Verified",
+        "Type de point (Anglais)/ Type of Point (English)": "Final Discharge Point",
+        "Water_Body": "",
+        " Description de l'utilisation de l'eau (Anglais)/ Description of use of water (English)": "",
+        "Description des eaux fréquentées par les poisons (Anglais) / Description of water frequented by fish (English)": "",
+        "System_status": "operational"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.109,
+          42.794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_ID": 14298,
+        "Owner_Name": "The Corporation of the City of Brantford",
+        "System_Name": "City of Brantford Water Pollution Control Plant",
+        "City": "Brantford",
+        "Province": "Ontario",
+        "Postal_Code": "N3T5S1",
+        "Owner_Type": "Municipal or another local authority",
+        "Daily_Effluent": 33161,
+        "Method_Calculation": "Continuous measure of effluent volume deposited via the final discharge point",
+        "Chlorine": "Yes",
+        "System_Type": "Continuous",
+        "Treatment_Types": "Grit Removal, Screening, Chemical Flocculation, Primary Sedimentation/Clarification, Skimming, Activated Sludge, Chemical Precipitation (Phosphorus), Disinfection",
+        " Treatment_Description": "",
+        "Discharge_Place": "Effluent is deposited to water frequented by fish via the final discharge point",
+        "Le temps de rétention hydraulique est-il de 5 jours ou plus? (Anglais)/ Is the hydraulic retention time 5 days or more? (English)": "No",
+        "Reporting_Frequency": "Quarterly",
+        "Périodes decalcul (Anglais)/ Averaging Period (English)": "Monthly",
+        "Statut de Vérification du point (Anglais)/ Verification status of the point (English)": "Verified",
+        "Type de point (Anglais)/ Type of Point (English)": "Final Discharge Point",
+        "Water_Body": "",
+        " Description de l'utilisation de l'eau (Anglais)/ Description of use of water (English)": "Other",
+        "Description des eaux fréquentées par les poisons (Anglais) / Description of water frequented by fish (English)": "Other",
+        "System_status": "operational"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2294,
+          43.1268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_ID": 23527,
+        "Owner_Name": "The Corporation of the Township of Centre Wellington",
+        "System_Name": "Elora WWTP",
+        "City": "Elora",
+        "Province": "Ontario",
+        "Postal_Code": "N0B 1S0",
+        "Owner_Type": "Municipal or another local authority",
+        "Daily_Effluent": 1566,
+        "Method_Calculation": "Continuous measure of effluent volume deposited via the final discharge point",
+        "Chlorine": "Yes",
+        "System_Type": "Continuous",
+        "Treatment_Types": "Grit Removal, Screening, Extended Aeration Activated Sludge, Chemical Precipitation (Phosphorus), Disinfection",
+        " Treatment_Description": "",
+        "Discharge_Place": "Effluent is deposited to water frequented by fish via the final discharge point",
+        "Le temps de rétention hydraulique est-il de 5 jours ou plus? (Anglais)/ Is the hydraulic retention time 5 days or more? (English)": "No",
+        "Reporting_Frequency": "Quarterly",
+        "Périodes decalcul (Anglais)/ Averaging Period (English)": "Quarterly",
+        "Statut de Vérification du point (Anglais)/ Verification status of the point (English)": "Verified",
+        "Type de point (Anglais)/ Type of Point (English)": "Final Discharge Point",
+        "Water_Body": "Grand River",
+        " Description de l'utilisation de l'eau (Anglais)/ Description of use of water (English)": "Other",
+        "Description des eaux fréquentées par les poisons (Anglais) / Description of water frequented by fish (English)": "Watercourse with bulk flow ratio > 100",
+        "System_status": "operational"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4308,
+          43.6802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_ID": 9963,
+        "Owner_Name": "Town of Orangeville",
+        "System_Name": "Orangeville Water Pollution Control Plant",
+        "City": "Orangeville",
+        "Province": "Ontario",
+        "Postal_Code": "L9W3T6",
+        "Owner_Type": "Municipal or another local authority",
+        "Daily_Effluent": 10595,
+        "Method_Calculation": "Continuous measure of influent volume deposited via the final discharge point",
+        "Chlorine": "Yes",
+        "System_Type": "Continuous",
+        "Treatment_Types": "Grit Removal, Screening, Extended Aeration Activated Sludge, Biological Nitrogen Removal - Nitrification and Denitrification, Filtration, Disinfection",
+        " Treatment_Description": "",
+        "Discharge_Place": "Effluent is deposited to water frequented by fish from a place where it was deposited via the final discharge point",
+        "Le temps de rétention hydraulique est-il de 5 jours ou plus? (Anglais)/ Is the hydraulic retention time 5 days or more? (English)": "No",
+        "Reporting_Frequency": "Quarterly",
+        "Périodes decalcul (Anglais)/ Averaging Period (English)": "Quarterly",
+        "Statut de Vérification du point (Anglais)/ Verification status of the point (English)": "Verified",
+        "Type de point (Anglais)/ Type of Point (English)": "Final Discharge Point",
+        "Water_Body": "Credit River",
+        " Description de l'utilisation de l'eau (Anglais)/ Description of use of water (English)": "Other",
+        "Description des eaux fréquentées par les poisons (Anglais) / Description of water frequented by fish (English)": "Other",
+        "System_status": "operational"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0864,
+          43.9167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_ID": 23414,
+        "Owner_Name": "Township of Wellington North",
+        "System_Name": "Arthur Wastewater Treatment Plant, Lagoon & Collection System",
+        "City": "Arthur",
+        "Province": "Ontario",
+        "Postal_Code": "N0G 1A0",
+        "Owner_Type": "Municipal or another local authority",
+        "Daily_Effluent": 1579,
+        "Method_Calculation": "Continuous measure of effluent volume deposited via the final discharge point",
+        "Chlorine": "No",
+        "System_Type": "Intermittent",
+        "Treatment_Types": "Grit Removal, Screening, Chemical Flocculation, Activated Sludge, Extended Aeration Activated Sludge, Storage Ponds, Chemical Precipitation (Phosphorus), Filtration, Disinfection",
+        " Treatment_Description": "",
+        "Discharge_Place": "Effluent is deposited to water frequented by fish from a place where it was deposited via the final discharge point",
+        "Le temps de rétention hydraulique est-il de 5 jours ou plus? (Anglais)/ Is the hydraulic retention time 5 days or more? (English)": "Non-applicable",
+        "Reporting_Frequency": "Annually",
+        "Périodes decalcul (Anglais)/ Averaging Period (English)": "Annually",
+        "Statut de Vérification du point (Anglais)/ Verification status of the point (English)": "Estimated",
+        "Type de point (Anglais)/ Type of Point (English)": "Final Discharge Point",
+        "Water_Body": "Conestoga River",
+        " Description de l'utilisation de l'eau (Anglais)/ Description of use of water (English)": "Other",
+        "Description des eaux fréquentées par les poisons (Anglais) / Description of water frequented by fish (English)": "Other",
+        "System_status": "operational"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5481,
+          43.8312
+        ]
+      }
+    }
+  ]
+}
